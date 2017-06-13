@@ -5,10 +5,19 @@ body {
   font-family: Georgia, "Trebuchet MS", Verdana, sans-serif;
 }
 
+h1, em {
+  font-weight: bold;
+  font-style: normal;
+}
+
+h1 {
+  font-size: 200%;
+}
+
 em {
   color: blue;
 }
 
-p.wichtig {
-  background-color: white;
+ul em {
+  color: red;
 }
