@@ -1,4 +1,10 @@
+body {
+  background-color: orange;
+  color: black;
+  font-size: small;
+  font-family: Georgia, "Trebuchet MS", Verdana, sans-serif;
+}
+
 em {
   color: blue;
-  font-weight: bold;
 }
