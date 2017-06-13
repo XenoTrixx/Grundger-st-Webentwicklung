@@ -8,3 +8,7 @@ body {
 em {
   color: blue;
 }
+
+p.wichtig {
+  background-color: white;
+}
