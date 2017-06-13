@@ -1,8 +1,13 @@
+*{
+  margin: 0px;
+}
+
 body {
-  background-color: orange;
-  color: black;
+  background-color: darkred;
+  color: lime;
   font-size: small;
   font-family: Georgia, "Trebuchet MS", Verdana, sans-serif;
+  
 }
 
 h1, em {
